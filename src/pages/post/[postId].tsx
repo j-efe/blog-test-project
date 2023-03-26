@@ -24,6 +24,8 @@ export default function Post() {
 
   return (
     <ContainerGeneral>
+      <h4>Comentários referentes ao post Nº {router.query.postId}</h4>
+      
     {comments?.map((comment) => (
       <Container key={comment.id}>
     

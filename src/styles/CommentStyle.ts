@@ -9,7 +9,7 @@ align-items: center;
 text-align: center;
 
 padding: 1.5rem;
-margin-bottom: 2rem;
+margin: 2rem 0;
 background: #F9FAFA;
 border-radius: 1rem;
 border: 0.1rem solid rgba(0,0,0,0.2);

@@ -8,7 +8,7 @@ export default function Header() {
    <Container>
       <TitleHeader>
         <h1>• Thoughts Blog •</h1>
-        <p>A small blog with thoughts in latin</p>
+        <p>Um pequeno blog com pensamentos em latin</p>
     {router.asPath.includes('post') ? <h4 onClick={() => {router.back()}}>Início</h4> : ''}
       </TitleHeader>
    </Container>

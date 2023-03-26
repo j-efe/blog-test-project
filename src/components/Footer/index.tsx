@@ -6,8 +6,8 @@ export default function Footer() {
   return (
    <Container>
       <TitleFooter>
-        <h1>Never miss a post. Subscribe now!</h1>
-        <p>Write your e-mail bellow and sing up.</p>
+        <h1>Nunca perca um post. Se inscreva agora!</h1>
+        <p>Escreva seu e-mail abaixo e confirme.</p>
       </TitleFooter>
 
       <EmailForm>

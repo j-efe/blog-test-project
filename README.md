@@ -2,9 +2,11 @@ Este é um projeto jeito com [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
-Primeiro, inicie o servidor de desenvolvimento:
+- O projeto encontra-se online no link: https://blog-project-jf.netlify.app
 
-```No CMD:
+Caso queira rodar localmente, primeiro, inicie o servidor de desenvolvimento rodando o seguinte comendo no CMD:
+
+```
 npm run dev
 # ou
 yarn dev
