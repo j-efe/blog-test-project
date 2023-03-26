@@ -27,7 +27,8 @@ a {
 export const ContainerGeneral = styled.div`
   width: 100%;
   height: auto;
-  padding: 6.4rem;
+  padding: 2rem;
+  
   display: flex;
   flex-direction: column;
   align-items: center;
