@@ -46,12 +46,12 @@ export default function PostBox({id,userId,body,title}: Post) {
       <FooterPost>
         <div className="iconsContainer">
         <AiOutlineEye className="iconStyle"/>
-        <p>0</p>
+        <p>1</p>
         </div>
 
         <div className="iconsContainer">
         <IoChatboxOutline className="iconStyle"/>
-        <p>0</p>
+        <p>5</p>
         </div>
       </FooterPost>
     </Container>
